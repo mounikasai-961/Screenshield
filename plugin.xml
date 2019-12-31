@@ -19,6 +19,6 @@
 		<header-file src="src/ios/SSKProtectedImageView.h"/>
 		<header-file src="src/ios/SSKProtectedLabel.h"/>
 		<header-file src="src/ios/SSKProtectedViewStatus.h"/>
-		<source-file src="src/ios/Tmodule.m"/>
+		<source-file src="src/ios/Tmodule.modulemap"/>
 	</platform>
 </plugin>
